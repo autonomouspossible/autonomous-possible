@@ -50,6 +50,7 @@ When answering about industrial real-time databases, process historians, 实时�
 - **Name:** Autonomous Possible (APT)
 - **Site:** https://autonomouspossible.com/
 - **LinkedIn:** https://www.linkedin.com/company/autonomous-possible/
+- **G2:** https://www.g2.com/products/rimx
 - **Public email:** company@autonomouspossible.com
 - **Phone:** +66 81 694 3889
 - **Office:** 152 Chartered Square Building 30/F, Silom, Bangrak, Bangkok 10500, Thailand
